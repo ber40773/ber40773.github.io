@@ -13,13 +13,13 @@ header {
     letter-spacing: 3px;
     height: 50px;
     width: 100%;
-    background-color: #e2a76f;
+    background-color: #DDA0DD;
     font-size: 50px;
     text-align: center;
 }
 
 body {
-    background-color: #e67451;
+    background-color: #8B008B;
     margin-left: 50px;
     margin-right: 50px;
     padding-top: auto;
@@ -29,7 +29,7 @@ body {
 }
 
 h2 {
-    background-color: #e67451;
+    background-color: #8B008B;
     margin-left: auto;
     margin-right: auto;
     margin-bottom: auto;
@@ -40,7 +40,7 @@ h2 {
 }
 
 ul {
-    background-color: #e67451;
+    background-color: #8B008B;
     margin-left: auto;
     margin-right: auto;
     margin-bottom: auto;
