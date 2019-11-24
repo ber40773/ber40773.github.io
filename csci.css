@@ -7,21 +7,19 @@ main {
 }
 
 header {
-    color: #ffc2b3
     font-family: 'Abril Fatface', cursive;
     padding-top: 20px;
     padding-bottom: 20px;
     letter-spacing: 3px;
     height: 50px;
     width: 100%;
-    background-color: #bfbfbf;
+    background-color: #DDA0DD;
     font-size: 50px;
     text-align: center;
 }
 
 body {
-    color: #e62e00;
-    background-color: #bfbfbf;
+    background-color: #8B008B;
     margin-left: 50px;
     margin-right: 50px;
     padding-top: auto;
@@ -31,8 +29,7 @@ body {
 }
 
 h2 {
-    color: #e62e00;
-    background-color: #bfbfbf;
+    background-color: #8B008B;
     margin-left: auto;
     margin-right: auto;
     margin-bottom: auto;
@@ -43,15 +40,11 @@ h2 {
 }
 
 ul {
-    background-color: #bfbfbf;
+    background-color: #8B008B;
     margin-left: auto;
     margin-right: auto;
     margin-bottom: auto;
     font-size: 30px;
-}
-
-a class{
-    color: #e62e00;
 }
 
 div {
@@ -61,3 +54,9 @@ div {
     margin-top: auto;
     padding-top: 15px;
 }
+© 2019 GitHub, Inc.
+Terms
+Privacy
+Security
+Status
+H
